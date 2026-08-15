@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hey, I'm Davi
 
-<!--
-**D124R/D124R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Future Software Engineer
 
-Here are some ideas to get you started:
+I'm passionate about technology, software development, computer networks and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning and building projects with:
+
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🎮 GDScript (Godot)
+
+---
+
+## 🧠 Currently Learning
+
+- Software Engineering
+- Web Development
+- Game Development
+- Git & GitHub
+- Computer Networks
+- Cybersecurity
+
+---
+
+## 🛠️ Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+
+---
+
+## 🎯 Goals
+
+- Become a Software Engineer
+- Build useful projects
+- Learn Cybersecurity
+- Study Computer Networks
+- Publish my own games
+- Keep improving every day
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D124R&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D124R&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+> 💻 Building. Learning. Improving.
