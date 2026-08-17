@@ -1,63 +1,312 @@
 # 👋 Hey, I'm Davi
 
-### 🚀 Future Software Engineer
+### AI Orchestration • Software Engineering • Full Stack
 
-I'm passionate about technology, software development, computer networks and cybersecurity.
+> **I don't just use AI. I build systems around it.**
 
-Currently learning and building projects with:
+I'm a developer focused on learning how software, artificial intelligence, automation and different technologies can work together to create useful products.
 
-* 🌐 HTML
-* 🎨 CSS
-* ⚡ JavaScript
-* 🎮 GDScript (Godot)
-* 🔧 Git
-* 🍃 MongoDB
-* 🗄️ SQL
+Right now, I'm exploring **AI orchestration, software engineering and full-stack development**, building projects to turn ideas into real systems.
 
 ---
 
-## 🧠 Currently Learning
+## 🧠 What I'm becoming
 
-* Software Engineering
-* Web Development
-* Game Development
+I'm working toward becoming an **AI Orchestrator / AI Engineer** — someone capable of connecting:
+
+```text
+        🧠 AI Models
+             ↓
+      🔀 Orchestration
+             ↓
+   ⚙️ APIs + Automation
+             ↓
+      💻 Application
+             ↓
+       🗄️ Data + DB
+             ↓
+        🚀 Product
+```
+
+The goal isn't just to know one technology.
+
+It's to understand **how everything fits together.**
+
+---
+
+## 🛠️ Technologies I'm learning
+
+### 💻 Development
+
+* JavaScript
+* HTML & CSS
+* Full Stack Development
+* APIs
 * Git & GitHub
+
+### 🗄️ Data
+
+* SQL
+* MongoDB
 * Databases
-* Computer Networks
-* Cybersecurity
+* Data modeling
+
+### 🤖 AI
+
+* AI APIs
+* AI-assisted development
+* AI workflows
+* AI agents
+* Prompt engineering
+* AI orchestration
+
+### 🎮 Other interests
+
+* Game Development
+* Unity
+* Godot
+* C#
+* Automation
+* Software architecture
 
 ---
 
-## 🛠️ Technologies
+## 🚀 Projects
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge\&logo=godotengine\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=sql\&logoColor=white)
+### 🌍 Global News Platform
 
----
+A project concept for a global news platform where users can explore countries through an interactive world map and filter news by:
 
-## 🎯 Goals
+* Politics
+* Economy
+* Entertainment
+* Country
 
-* Become a Software Engineer
-* Build useful projects
-* Learn Cybersecurity
-* Study Computer Networks
-* Work with databases
-* Publish my own games
-* Keep improving every day
+The long-term idea is to combine **APIs, databases, automation and AI** into one system.
 
 ---
 
-## 📈 GitHub Stats
+### 🎮 Game Development
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D124R\&show_icons=true\&theme=tokyonight\&hide_border=true)
+I'm also exploring game development, experimenting with:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D124R\&layout=compact\&theme=tokyonight\&hide_border=true)
+* Game design
+* Gameplay systems
+* Unity
+* Godot
+* C#
+* Storytelling
 
 ---
 
-> 💻 Building. Learning. Improving.
+## 📚 Currently learning
+
+```text
+Software Engineering
+        ↓
+Backend
+        ↓
+Full Stack
+        ↓
+APIs & Databases
+        ↓
+Artificial Intelligence
+        ↓
+AI Agents
+        ↓
+AI Orchestration
+```
+
+I'm still at the beginning of the journey.
+
+But I'm building, experimenting and learning every day.
+
+---
+
+## 🎯 My direction
+
+I want to become the kind of developer who can look at a problem and think:
+
+> **"What is the best combination of code, AI, data and automation to solve this?"**
+
+That's the direction I'm pursuing.
+
+---
+
+## 📊 GitHub
+
+I use GitHub to document my progress, experiment with ideas and build projects.
+
+Every repository is another step.
+
+**Still learning. Still building. Still shipping.** 🚀
+
+---
+
+## 🌐 Connect
+
+**GitHub:** `@pixeldavi`
+
+---
+
+```text
+BUILD → BREAK → LEARN → IMPROVE → BUILD AGAIN
+```
+
+### ⚡ Let's build something interesting.
+# 👋 Hey, I'm Davi
+
+### AI Orchestration • Software Engineering • Full Stack
+
+> **I don't just use AI. I build systems around it.**
+
+I'm a developer focused on learning how software, artificial intelligence, automation and different technologies can work together to create useful products.
+
+Right now, I'm exploring **AI orchestration, software engineering and full-stack development**, building projects to turn ideas into real systems.
+
+---
+
+## 🧠 What I'm becoming
+
+I'm working toward becoming an **AI Orchestrator / AI Engineer** — someone capable of connecting:
+
+```text
+        🧠 AI Models
+             ↓
+      🔀 Orchestration
+             ↓
+   ⚙️ APIs + Automation
+             ↓
+      💻 Application
+             ↓
+       🗄️ Data + DB
+             ↓
+        🚀 Product
+```
+
+The goal isn't just to know one technology.
+
+It's to understand **how everything fits together.**
+
+---
+
+## 🛠️ Technologies I'm learning
+
+### 💻 Development
+
+* JavaScript
+* HTML & CSS
+* Full Stack Development
+* APIs
+* Git & GitHub
+
+### 🗄️ Data
+
+* SQL
+* MongoDB
+* Databases
+* Data modeling
+
+### 🤖 AI
+
+* AI APIs
+* AI-assisted development
+* AI workflows
+* AI agents
+* Prompt engineering
+* AI orchestration
+
+### 🎮 Other interests
+
+* Game Development
+* Unity
+* Godot
+* C#
+* Automation
+* Software architecture
+
+---
+
+## 🚀 Projects
+
+### 🌍 Global News Platform
+
+A project concept for a global news platform where users can explore countries through an interactive world map and filter news by:
+
+* Politics
+* Economy
+* Entertainment
+* Country
+
+The long-term idea is to combine **APIs, databases, automation and AI** into one system.
+
+---
+
+### 🎮 Game Development
+
+I'm also exploring game development, experimenting with:
+
+* Game design
+* Gameplay systems
+* Unity
+* Godot
+* C#
+* Storytelling
+
+---
+
+## 📚 Currently learning
+
+```text
+Software Engineering
+        ↓
+Backend
+        ↓
+Full Stack
+        ↓
+APIs & Databases
+        ↓
+Artificial Intelligence
+        ↓
+AI Agents
+        ↓
+AI Orchestration
+```
+
+I'm still at the beginning of the journey.
+
+But I'm building, experimenting and learning every day.
+
+---
+
+## 🎯 My direction
+
+I want to become the kind of developer who can look at a problem and think:
+
+> **"What is the best combination of code, AI, data and automation to solve this?"**
+
+That's the direction I'm pursuing.
+
+---
+
+## 📊 GitHub
+
+I use GitHub to document my progress, experiment with ideas and build projects.
+
+Every repository is another step.
+
+**Still learning. Still building. Still shipping.** 🚀
+
+---
+
+## 🌐 Connect
+
+**GitHub:** `@pixeldavi`
+
+---
+
+```text
+BUILD → BREAK → LEARN → IMPROVE → BUILD AGAIN
+```
+
+### ⚡ Let's build something interesting.
